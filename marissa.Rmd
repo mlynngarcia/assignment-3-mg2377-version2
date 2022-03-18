@@ -1,0 +1,14 @@
+---
+title: "marissa"
+author: "Marissa Garcia"
+date: "3/18/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+  * My favorite ice cream flavor is anything pistachio. 
+  * I love having two shots of espresso to start off my morning.
+  * I grew up in Southern California and saw snow fall for the first time when I moved to Boston for college.  

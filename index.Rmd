@@ -1,0 +1,16 @@
+---
+title: "index"
+author: "Marissa Garcia"
+date: "3/18/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My name is Marissa Garcia (mg2377), and [linked here is my personal Github account](https://github.com/mlynngarcia). 
+
+The name of my collaborator is Ben Mirin (bhm48), and [linked here is his personal Github account](https://github.com/benmirin).
+
+![This is a photo of the graduate student pod at the K. Lisa Yang Center for Conservation Bioacoustics.](/Users/marissagarcia/Documents/NTRES 6100 GIT Directory/assignment-3-mg2377-version2/PhotoForGitHubAssignment3.jpeg)
