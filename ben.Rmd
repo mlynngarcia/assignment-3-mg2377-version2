@@ -1,0 +1,66 @@
+---
+title: "Ben"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+**This website is for a course at Cornell. To learn more about Ben, visit [benmirin.com](https://benmirin.com)**
+
+## Education
+
+*   Ph.D. Candidate, Cornell University **2019-2024**
+
+*   B.A., Carleton College **2006-2010**
+
+## Work experience
+
+*   Explorer at National Geographic **2016-Present**
+
+    **Project 4:** Explorer Mindset, 2019 (Team member)
+    
+    **Project 3:** Grandpa’s Reef, 2018 (Team member)
+    
+    **Project 2:** Remixing Madagascar, 2016 (Principle Investigator)
+    
+    **Project 1:** Sky Island Beatbox, 2015 (Team member)
+    
+*   Science Communicator: New York, NY **2014-Present**
+*   Safina Center Senior Fellow **2016-2020**
+*   Inaugural Artist In Residence: Wildlife Conservation Society **2016**
+*   Web Producer for Slate Magazin **2013-2015**
+*   Ambassador for Nanae Town Government, Hokkaido, Japan **2010-2012**
+ 
+## Skills
+*   Data analysis in R
+*   Science writing
+*   Research
+*   Film and video production
+*   Field ornithology
+*   Music
+
+## Affiliations
+
+*   Explorer: National Geographic Society
+
+*   Senior Fellow Emeritus: Safina Center
+
+*   Fellow: The Explorers Club
+
+## Publications
+
+**1.** Mirin, B. H., & Klinck, H. (2021). Bird singing contests: Looking back on thirty years of research on a global conservation concern. Global Ecology and Conservation, 30(September). https://doi.org/10.1016/j.gecco.2021.e01812
+
+## Fellowships
+
+*   NSF
+
+*   Fulbright Hays
+
+## Grants
+
+*   Athena
+
+*   National Geographic
